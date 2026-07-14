@@ -1,0 +1,7 @@
+Ruta al Volcan; trekking; 20; 45000
+Paseo por el Llanquihue; lacustre; 15; 35000
+Tour delicias del sur; gastronómico; 10; 27500
+Museo Colonial; cultural; 20; 15000
+Ruta Cervecera; gastronómico; 10; 30000
+Kayak en el lago; lacustre; 6; 12000
+
